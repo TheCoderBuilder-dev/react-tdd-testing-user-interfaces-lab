@@ -1,19 +1,17 @@
 function App() {
-  return (
-    <div>
-      <h1>Hi, I'm Brian</h1>
-      <img 
-        src="https://via.placeholder.com/150" 
-        alt="Photo of Brian" 
-      />
+  return <div>
+    
+      <h1>Hi,I'm _______</h1>
+    
+    
+      <img src='https://images.app.goo.gl/RxX1FPU4x2uqq2vW6' alt="ID image"/>
+      
       <h2>About Me</h2>
-      <p>
-        I am a web developer passionate about learning React, JavaScript, and building awesome projects.
-      </p>
-      <a href="https://github.com/yourusername">GitHub</a>
-      <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
-    </div>
-  );
+
+      <p>This is a biography about me</p>
+      <a href="https://ke.linkedin.com/">LinkedIn</a>
+      <a href="https://github.com/">Github</a>
+  </div>;
 }
 
 export default App;
